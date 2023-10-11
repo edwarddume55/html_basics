@@ -1,0 +1,50 @@
+*{
+    font-weight: bold;
+    font-family: poppins sans-serif;
+}
+.fruits{
+    border: 2px solid aquamarine;
+    background-color: darkolivegreen;
+    margin: 20px;
+    padding: 20px;
+    color: beige;
+    text-align: center;
+}
+.cars{
+    background-color: cadetblue;
+    border: black solid2px;
+    padding: 20px;
+    margin: 20px;
+    text-align: end;
+    color: chartreuse;
+}
+.comp{
+    background-color: antiquewhite;
+    color: #ffffff;
+    padding: 20px;
+    border: #8d7575 solid 2px;
+    text-align: start;
+    margin: 20px;
+}
+.lapt{
+    border: 2px solid #ffffff;
+}
+.dstp{
+    border:  5px dot-dot-dash #d90f0f;
+    background-color: #8d7575;
+    padding: 20px;
+    color: gold;
+}
+.FRUITS{
+    background-color: darkkhaki;
+    color: #ac0ab7;
+    padding: 20px;
+    border: #ffffff solid 2px;
+    text-align: start;
+    margin: 20px;
+}
+img{
+    border-radius: 15px;
+
+}
+
